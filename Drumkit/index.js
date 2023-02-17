@@ -10,6 +10,7 @@ const sons ={
     'S' : 'snare.wav',
     'T' : 'tink.wav',
     'M' : 'tom.wav',
+    'V' : 'tom.wav',
 }
 /* json */
 const criarDiv = (texto) => {
